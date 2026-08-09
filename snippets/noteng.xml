@@ -17,4 +17,5 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
   <project path="vendor/noteng" name="android_vendor_noteng" remote="noteng" />
+  <project path="vendor/lineage" name="android_vendor_lineage" remote="noteng" />
 </manifest>
