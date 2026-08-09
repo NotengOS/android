@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="noteng"
+           fetch="https://github.com/NotengOS"
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/noteng-4.1" />
+
+  <!-- NotengOS additions -->
+  <project path="vendor/noteng" name="android_vendor_noteng" remote="noteng" />
+</manifest>
