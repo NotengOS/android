@@ -19,6 +19,7 @@
   <project path="vendor/noteng" name="android_vendor_noteng" remote="noteng" />
   <project path="vendor/lineage" name="android_vendor_lineage" remote="noteng" />
 
-  <!-- Nothing apps -->
+  <!-- Nothing related -->
+  <project path="hardware/nothing" name="android_hardware_nothing" remote="noteng" />
   <project path="vendor/nothing/sounds" name="proprietary_vendor_nothing_sounds" remote="noteng" />
 </manifest>
