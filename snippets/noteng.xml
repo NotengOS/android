@@ -22,4 +22,5 @@
   <!-- Nothing related -->
   <project path="hardware/nothing" name="android_hardware_nothing" remote="noteng" />
   <project path="vendor/nothing/sounds" name="proprietary_vendor_nothing_sounds" remote="noteng" />
+  <project path="vendor/nothing/themepicker" name="proprietary_vendor_nothing_themepicker" remote="noteng" />
 </manifest>
