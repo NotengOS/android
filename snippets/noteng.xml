@@ -18,6 +18,7 @@
   </project>
   <project path="vendor/noteng" name="android_vendor_noteng" remote="noteng" />
   <project path="vendor/lineage" name="android_vendor_lineage" remote="noteng" />
+  <project path="external/google-fonts/inter" name="android_external_google-fonts_inter" remote="noteng" />
 
   <!-- Nothing related -->
   <project path="hardware/nothing" name="android_hardware_nothing" remote="noteng" />
